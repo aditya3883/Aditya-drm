@@ -5,7 +5,7 @@ from os import environ
 
 API_ID = int(environ.get("API_ID", "20432564"))
 API_HASH = environ.get("API_HASH", "6efd58342f75a088f8a7b4a15bdd35cd")
-BOT_TOKEN = environ.get("BOT_TOKEN", "7641179140:AAFzHpBuan10zuAsXbUEbj_7qjvkRNarmHU")
+BOT_TOKEN = environ.get("BOT_TOKEN", "8477391358:AAEYn4j2azXBse60zosNCiVCSMFWhUTNyyk")
 
 OWNER = int(environ.get("OWNER", "8277882193"))
 CREDIT = environ.get("CREDIT", "@Genius_Hub_Official_01")
